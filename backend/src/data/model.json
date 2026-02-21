@@ -1,0 +1,10 @@
+{
+    "intercept": 2.9389,
+    "tvCoef": 0.0458,
+    "radioCoef": 0.1885,
+    "newspaperCoef": -0.001,
+    "metrics": {
+        "r2": 0.9831,
+        "rmse": 0.77
+    }
+}

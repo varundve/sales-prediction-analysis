@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2026-02-17T06:52:57.158Z",
+    "inputs": {
+      "tv": 50000,
+      "radio": 30000,
+      "newspaper": 10000,
+      "total": 90000
+    },
+    "prediction": 8178.9286999999995,
+    "roi": "9.1"
+  },
+  {
+    "timestamp": "2026-02-18T08:06:01.797Z",
+    "inputs": {
+      "tv": 50000,
+      "radio": 40000,
+      "newspaper": 30000,
+      "total": 120000
+    },
+    "prediction": 10043.9287,
+    "roi": "8.4"
+  }
+]
